@@ -18,6 +18,7 @@
 
       -pre-init:                 called before initialization of project properties
       -post-init:                called after initialization of project properties
+<!--this is a comment-->
       -pre-compile:              called before javac compilation
       -post-compile:             called after javac compilation
       -pre-compile-single:       called before javac compilation of single file
